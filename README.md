@@ -1,4 +1,4 @@
-# Macine_learning_from_scratch
-```markdown
-![Linear Regression](Linear regression.pdf)
+> "What I cannot create I do not understand" - Richard Feynman 
+
+
 
